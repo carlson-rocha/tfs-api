@@ -1,0 +1,1 @@
+ALTER TABLE usuario ADD COLUMN tp_funcao VARCHAR(7) NULL ;
